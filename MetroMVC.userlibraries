@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libreria">
+    <archive path="D:/SecondoProg/AD/Ud2/MetroMVC/libreria/mysql-connector-java-5.1.18-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+
